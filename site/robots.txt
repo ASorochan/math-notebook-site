@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asorochan.github.io/math-notebook-site/sitemap.xml
